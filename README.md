@@ -10,3 +10,8 @@
 ## 3. Electrically tunable reflectarray
 <img src="images/ElecRefl.png" alt="Alt text" width="600" height="450">
 <img src="images/ElecReflS11.png" alt="Alt text" width="600" height="400">
+
+## 4. Mechanically tunable reflectarray
+<img src="images/MechRefl.png" alt="Alt text" width="600" height="450">
+<img src="images/MechReflCS.png" alt="Alt text" width="600" height="400">
+<img src="images/MechReflS11.png" alt="Alt text" width="600" height="400">
