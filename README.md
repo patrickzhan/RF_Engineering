@@ -23,3 +23,7 @@
 ## 6. Three-one bandpass filter
 <img src="images/whole2.JPG" alt="Alt text" width="600" height="600">
 <img src="images/Spfinal.JPG" alt="Alt text" width="600" height="400">
+
+## 7. Automatic frequency control in EPR spectrometer
+<img src="images/AFC_sche.png" alt="Alt text" width="600" height="400">
+<img src="images/PCB.png" alt="Alt text" width="600" height="400">
